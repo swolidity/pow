@@ -47,6 +47,7 @@
     "@openzeppelin/contracts": "^4.8.1",
     "dotenv": "^16.0.3",
     "envfile": "^6.18.0",
+    "hardhat-tracer": "^2.2.2",
     "qrcode": "^1.5.1"
   }
 }
